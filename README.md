@@ -22,11 +22,12 @@
 
 ## 프로젝트 소개
 
-**블라블라**는 ~~에 어려움을 겪고 있는 ~~를 위해 ~~ 를 제공하는 서비스입니다. 여기는 3줄 이내로 간략하게 적으면 좋아요~
+**Don't-Don't-Don**는 대학생에게 빈번한 술자리와 여행의 정산/더치페이/N빵 전문서비스 입니다. </br>
+*Doumi Of N-bbang, Don을 사용해 보세요*
 
-#### 블라블라, ~~를 위한 ~~ (기능적으로 메인되는 것 어필~).
+#### Don't-Don't-Don, 즐거운 정산을 위한 선택
 
-블라블라와 함께라면 ~~는 ~~할 수 있구요 ~~저쩔 수 있구요 어쩔티비 할 수 있구요~
+ Don't-Don't-Don 과 함께라면 즐거운 술자리, 여행이후 어색한 정산시간을 또 하나의 유흥으로 즐길 수 있습니다.
 
 #### 블라블라, 간단한 사용과 편리함 (스텝별 사용자가 해야하는 것 어필~).
 
@@ -40,11 +41,13 @@
 
 해당 어플리케이션을 동작하기 위해선 다음 버전 이상이 필요해요.
 
-(지금은 예시 그대로)
-
 - [Node.js 14.19.3](https://nodejs.org/ca/blog/release/v14.19.3/)
 - [Npm 9.2.0](https://www.npmjs.com/package/npm/v/9.2.0)
 - [Python 3.11.4](https://www.python.org/downloads/release/python-3114/)
+- [django 4.2.4]
+- [django-environ 0.10.0]
+- [djangorestframework 3.14.0]
+- [djangorestframework-simplejwt 5.3.0]
 
 ### Installation
 
