@@ -18,7 +18,8 @@
 | :----------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------: | :----------------------------: | :----------------------------: |
 |                                | <img src="https://avatars.githubusercontent.com/u/81083461?v=4" /> | <img src="https://avatars.githubusercontent.com/u/108079454?v=4" width="300" height="300" /> | <img src="https://avatars.githubusercontent.com/u/128457220?s=400&u=ed67f7a8507fb3af6228bea4faf8afcd76f85b17&v=4" width="300" height="300"/> |                                |                                |
 |             [tndnpn](https://github.com/tndnpn)                   |            [jinhokim98](https://github.com/jinhokim98)             |                             [e6d1fe](https://github.com/e6d1fe)                              |                [HxWOO](https://github.com/HxWOO)                |               [y-won1209](https://github.com/y-won1209)                 |               [nexdavid2020](https://github.com/nexdavid2020)                 |
-|               홍익대학교 산업디자인학과                 |                        홍익대학교 경영학과                         |                                   연세대학교 창의기술경영학과                                    |             홍익대학교 컴퓨터공학과                  |               이화여자대학교 독어독문학과                |             서강대학교 사학/컴공                   |
+|               홍익대학교
+산업디자인학과                 |                        홍익대학교 경영학과                         |                                   연세대학교 창의기술경영학과                                    |             홍익대학교 컴퓨터공학과                  |               이화여자대학교 독어독문학과                |             서강대학교 사학/컴공                   |
 
 ## 프로젝트 소개
 
