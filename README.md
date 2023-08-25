@@ -138,24 +138,50 @@ $ npm run dev
 ├── README.md
 ├── package-lock.json
 ├── package.json
-├── server : 백엔드
-│   ├── README.md
+├── Backend : 백엔드
 │   ├── requirements.txt
 │   ├── manage.py
-│   ├── api1 : api1에 대한 정보
+│   ├── config : Backend 서버에 대한 전반적인 세팅이 들어있는 디렉토리
+│   │   ├── __init__.py
+│   │   ├── urls.py
+│   │   ├── settings.py
+│   │   ├── asgi.py
+│   │   ├── wsgi.py
+│   ├── friends : 술모임 이후 정산에 관한 api가 담긴 디렉토리
+│   │   ├── migrations
 │   │   ├── urls.py
 │   │   ├── views.py
-│   │   ├── etc..
-│   ├── api2 : api2에 대한 정보
+│   │   ├── apps.py
+│   │   ├── admin.py
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── tests.py
+│   │   ├── apps.py
+│   ├── random1 : 로그인, 회원가입 관련 api와 랜덤한 정산에 관한 api가 담긴 디렉토리
+│   │   ├── migrations
 │   │   ├── urls.py
 │   │   ├── views.py
-│   │   ├── etc..
-│   ├── api3 : api3에 대한 정보
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── tests.py
+│   ├── travel : 여행 후 정산 관련 api가 담긴 디렉토리
+│   │   ├── migrations
 │   │   ├── urls.py
 │   │   ├── views.py
-│   │   ├── etc..
-│   ├── extensions
-│   │   └── users-permissions : 권한 정보
+│   │   ├── tests.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── admin.py
+│   ├── weight : 각종 서비스에 필요한 가중치 모델이 담겨있는 api
+│   │   ├── migrations
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   ├── views.py
 └── front : 프론트엔드
     ├── README.md
     ├── public
